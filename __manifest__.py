@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
     'name': 'plan_production_order',  # TODO
-    'version': '0.1.0',  # TODO
+    'version': '13.0.0.0.1',  # TODO
     'author': 'HomebrewSoft',
     'website': 'https://github.com/HomebrewSoft/plan_production_order',  # TODO
     'depends': [  # TODO Check
