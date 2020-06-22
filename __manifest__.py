@@ -12,6 +12,7 @@
         # reports
         # views
     ],
-    'external_dependencies': [  # TODO Check
+    'external_dependencies': [
+        'mrp.production',
     ],
 }
